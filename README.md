@@ -22,6 +22,7 @@
   * Jason
   * GoogleMaps
   * MYQR
+  * MYSQL
 
 
 ## Objective
@@ -46,6 +47,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Flask" width="40px" src="https://miro.medium.com/max/640/1*XzIRJGujfqAiOV2EIQgR_Q.png" />
+<img align="left" alt="urilib" width="40px" src="https://miro.medium.com/max/1400/0*xlrbMCPvnyJK6hgT.jpeg" />
+<img align="left" alt="panda" width="40px" src="https://www.pinclipart.com/picdir/middle/367-3678882_python-logo-clipart-easy-pandas-python-logo-png.png" />
+<img align="left" alt="folium" width="40px" src="https://intro-to-code.readthedocs.io/en/latest/_images/folium.png" />
+<img align="left" alt="json" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20201125211352/PythonJSON.jpg" />
+<img align="left" alt="googlemaps" width="40px" src="https://sm.pcmag.com/pcmag_in/review/g/google-map/google-maps_m7eu.jpg" />
+<img align="left" alt="myqr" width="40px" src="https://play-lh.googleusercontent.com/JAuXlNccyXEQXVLPS3w5LVfDaUi0TjSFHfrM0LPHCuQ3u7OE7RhGrP3vdgXLmtIJet8" />
+<img align="left" alt="mysql" width="40px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <br />
 <br />
 
